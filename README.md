@@ -5,10 +5,10 @@ PV (power generation) forecasting with tensorflow
 <br/>
 
 ### Requirements
-tensorflow >= 2.0.0
-numpy
-pandas
-matplotlib
+tensorflow >= 2.0.0<br/>
+numpy<br/>
+pandas<br/>
+matplotlib<br/>
 
 <br/>
 
